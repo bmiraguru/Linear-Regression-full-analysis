@@ -1,1 +1,1 @@
-# Linear-Regression-full-analysis
+Fee free to check out my article on Medium regarding this project: https://medium.com/@bala.mira297/a-comprehensive-analysis-on-linear-regression-using-cars-dataset-using-python-and-excel-f53541b58f10https://medium.com/@bala.mira297/a-comprehensive-analysis-on-linear-regression-using-cars-dataset-using-python-and-excel-f53541b58f10
